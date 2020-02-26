@@ -1,11 +1,7 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Dec  9 20:32:40 2019
-
-@author: willi
-"""
-
 import math as m
+
+## This file is the design for my neural network nodes, featuring logistic regression stochasitc gradient descent
+
 
 class Logistic_regression:
     
