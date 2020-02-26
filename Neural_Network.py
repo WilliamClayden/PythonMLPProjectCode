@@ -1,11 +1,5 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Dec 24 17:18:22 2019
 
-@author: willi
-"""
 
-#import Node as N
 import Logistic_Regression as LR
 import copy
 import random as r
