@@ -1,16 +1,11 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Jan  4 15:47:43 2020
-
-@author: willi
-"""
-
 import time
 import Logistic_Regression as LR
 import Neural_Network as NN
 import random as r
 import numpy as np # Numpy is only used for the oversampling method
 
+## This file uses a hand-built k-fold validation mechanism to train and test the neural network I created with a range of 
+# hidden layers and number of nodes per layer
 
 
 
